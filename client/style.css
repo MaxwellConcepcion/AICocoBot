@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@100;300;400;500;700;800;900&display=swap");
 
+@media only screen and (max-width: 480px) {
 * {
     margin: 0;
     padding: 0;
@@ -137,4 +138,4 @@ button {
 form img {
     width: 30px;
     height: 30px;
-}
+}}
